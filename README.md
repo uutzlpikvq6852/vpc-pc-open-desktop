@@ -1,7 +1,20 @@
 # vpc-pc-open-desktop
 Clash &amp; Clash Meta &amp; V2Ray PC Desktop
 
+# TODD
++ 語言（en/cn）
++ 更新
++ DNS
++ IPV6
++ Geo ip
++ WAN
++ Clash Meta(50%)
++ V2
++ MITM
++ Core Logs
 
+
+# 截图
 ![image](https://user-images.githubusercontent.com/114529951/227934208-cdff68f4-19e1-4ffa-89f0-d88743e62928.png)
 ![image](https://user-images.githubusercontent.com/114529951/227934263-8c378a74-b592-45b4-94fe-4e375ab665ba.png)
 ![image](https://user-images.githubusercontent.com/114529951/227934353-badda1d8-c044-428e-b930-94eba8b3bf73.png)
