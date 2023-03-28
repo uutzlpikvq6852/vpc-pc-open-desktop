@@ -1,6 +1,3 @@
-# vpc-pc-open-desktop
-Clash &amp; Clash Meta &amp; V2Ray PC Desktop
-
 # TODD
 + 語言（en/cn）
 + 更新
@@ -12,7 +9,15 @@ Clash &amp; Clash Meta &amp; V2Ray PC Desktop
 + V2
 + MITM
 + Core Logs
-
++ Scheme Import Nodes
++ Scheme Import Clash Url
++ 規則集 Clash Text
++ MacOs（内测）
++ Linux（内测）
++ 節點評測
++ 節點測速
++ 節點優選
++ 節點區域分組
 
 # 截图
 ![image](https://user-images.githubusercontent.com/114529951/227934208-cdff68f4-19e1-4ffa-89f0-d88743e62928.png)
