@@ -1,5 +1,5 @@
 # TODD
-+ 語言（en/cn）
++ 語言（cn）
 + 更新
 + DNS
 + IPV6
