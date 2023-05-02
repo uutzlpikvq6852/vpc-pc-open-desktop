@@ -6,10 +6,7 @@
 # TODD
 + 語言（cn）
 + 更新
-+ DNS
-+ IPV6
 + Geo ip
-+ WAN
 + Clash Meta(50%)
 + V2
 + MITM
