@@ -1,3 +1,13 @@
+```
+！！！關機，重啟前請退出本軟件！！！
+因為ShutdownBlockReasonDestroy還未實現。 fu C++。
+！！！打開 開機自啟動 無視上面 ！！！
+
+！ ！ ！关机，重启前请退出本软件！ ！ ！
+因为ShutdownBlockReasonDestroy还未实现。
+！ ！ ！已经打开 开机自启动 无视上面 ！ ！ ！
+```
+
 |  ----  | ----  | ----  |
 |  ----  | ----  | ----  |
 |  ![image](https://user-images.githubusercontent.com/114529951/227934208-cdff68f4-19e1-4ffa-89f0-d88743e62928.png)  | ![image](https://user-images.githubusercontent.com/114529951/227934263-8c378a74-b592-45b4-94fe-4e375ab665ba.png)  |  ![image](https://user-images.githubusercontent.com/114529951/228858643-f7aa6976-77b9-4990-95d6-33978128460e.png)  |
