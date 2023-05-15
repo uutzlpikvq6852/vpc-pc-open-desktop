@@ -74,19 +74,13 @@ module.exports = {
       label: '顯示數量',
       defaultValue: 9,
       required: true
-      // validator: function (value) {
-      //   if (!value) {
-      //     return '請輸入顯示數量'
-      //   }
-      // }
     }
   ],
-  // validator: function (form) {
-  //   if (form.topN === 9) {
-  //     return '請輸入顯示數量'
-  //   }
-  //   // return form.topN !== 9
-  // },
+  validator: function (form) {
+    if (form.topN <= 0) {
+      return '請輸入顯示數量'
+    }
+  },
   onConnections: function (connections) {
     if (!global.store) {
       global.store = {
