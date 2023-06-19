@@ -1,8 +1,8 @@
-```
 # OS
 + Windwos 10
 + Windows 11
 
+```
 ！！！關機，重啟前請退出本軟件！！！
 因為ShutdownBlockReasonDestroy還未實現。 fu C++。
 ！！！打開 開機自啟動 無視上面 ！！！
